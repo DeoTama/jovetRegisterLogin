@@ -41,7 +41,7 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
 
                 break;
 
-            case R.id.register_user:
+            case R.id.register_here:
 
 
                 break;
